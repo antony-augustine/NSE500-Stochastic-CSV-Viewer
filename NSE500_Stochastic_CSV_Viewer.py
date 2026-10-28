@@ -60,8 +60,8 @@ preferred_fields = [
     #"Trading_Days_Since_Crossover",
     "Last_Signal_Date",
     "Last_Signal",
-    "Pct_Change_Since_Last_Signal",
-    "TDays_Since_Last_Signal",
+    "Pct_Chg_Last_Signal",
+    "Days_Last_Signal",
     "Chart"
 ]
 
